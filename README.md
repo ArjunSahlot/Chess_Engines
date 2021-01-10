@@ -1,2 +1,2 @@
-# Chess_Engines
+# chess_engines
 Chess engines made in python.
