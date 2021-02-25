@@ -1,2 +1,2 @@
 # chess_engines
-Chess engines made in python.
+Chess engines which follow part of the UCI protocol.
